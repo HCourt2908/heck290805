@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @heck290805
+- 👀 I’m interested in programming and video games
+- 🌱 I’m currently learning computer science, physics, maths and further maths at A-Level
